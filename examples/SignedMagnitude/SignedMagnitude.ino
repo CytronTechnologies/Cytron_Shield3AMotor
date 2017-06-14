@@ -1,7 +1,7 @@
 #include "Cytron_Shield3AMotor.h"
 
 // Connect 4 pin on SHIELD-2AMOTOR to "Signed Magnitude" mode
-Shield2AMotor motor(SIGNED_MAGNITUDE);
+Shield3AMotor motor(SIGNED_MAGNITUDE);
 
 signed int motor1Speed, motor2Speed;
 
