@@ -1,7 +1,7 @@
 #include "Cytron_Shield3AMotor.h"
 
 // Connect 4 pin on SHIELD-2AMOTOR to "Locked Anti-Phase" mode
-Shield2AMotor motor(LOCKED_ANTI_PHASE);
+Shield3AMotor motor(LOCKED_ANTI_PHASE);
 
 signed int motor1Speed, motor2Speed;
 
