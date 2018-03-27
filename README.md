@@ -11,7 +11,7 @@ The User's Manual can be referred [here](https://docs.google.com/document/d/1gzO
 ## Installing
 - **Easy install**
  
-  Open Arduino IDE. Go to Sketch -> Include Library -> Manage Libraries. Search for **Cytron ESPWiFi Shield** and install.
+  Open Arduino IDE. Go to Sketch -> Include Library -> Manage Libraries. Search for **Cytron 3A Motor Driver Shield** and install.
 - **Manual install:**
  
   Download the library as .zip file and extract it to Arduino libraries directory.
