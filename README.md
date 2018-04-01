@@ -6,7 +6,7 @@ Maintained by: Idris ([idris@cytron.io](mailto:idris@cytron.io))
 
 The product page is located at [here](https://www.cytron.io/p-shield-3amotor).
 
-The User's Manual can be referred [here](https://docs.google.com/document/d/1gzOZmvPOlycLE2lz935gsNGHn9SZdbbSCnHCQyKssi8/view). Please go through User's Manual to understand how to get started with Cytron ESPWiFi shield.
+The User's Manual can be referred [here](https://docs.google.com/document/d/1gzOZmvPOlycLE2lz935gsNGHn9SZdbbSCnHCQyKssi8/view).
 
 ## Installing
 - **Easy install**
